@@ -8,3 +8,4 @@ CI（Continuous Integration,持续集成）
 常见的CI有：Travis CI 、 Jenkins 、Circle CI。
 
 
+v1.2
